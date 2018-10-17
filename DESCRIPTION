@@ -1,0 +1,15 @@
+Package: safetest
+Title: Validate the assumptions of tests before running them
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Lluís",
+           family = "Revilla Sancho",
+           email = "lluis.revilla@gmail.com",
+           comment = c(ORCID = "0000-0001-9747-2570"))
+Description: The packages has an assumptions objects that
+    are attached to other objects which in turn can be validated.
+License: MIT + file LICENSE
+Depends: 
+    R (>= 3.5.1)
+Encoding: UTF-8
+LazyData: true
