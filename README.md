@@ -10,7 +10,7 @@ The idea of this package is to check the assumptions for any given statisticall 
 # Assumptions
 
 Common assumptions are:
-- Normal distribution
+- Following some distribution: normal, poisson... (in the residuals of models or in some tests)
 - Same mean (ANOVA)
 - No ties (ranking algorithms like fgsea)
 - Randomness
